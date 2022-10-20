@@ -12,3 +12,9 @@ https://www.w3schools.com/howto/howto_website_create_portfolio.asp
 https://www.w3schools.com/howto/howto_website_create_resume.asp
 
 https://medium.com/clarusway/popular-devops-tools-review-ee0cffea14ec
+
+https://www.thoughtworks.com/pt-br/radar
+
+https://developer.apple.com/xcode/swiftui/
+
+https://www.testcontainers.org/
