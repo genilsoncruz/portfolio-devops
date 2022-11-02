@@ -20,3 +20,5 @@ https://www.thoughtworks.com/pt-br/radar
 https://developer.apple.com/xcode/swiftui/
 
 https://www.testcontainers.org/
+
+https://github.com/refinedev/refine?utm_source=tldrnewsletter
