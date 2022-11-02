@@ -1,6 +1,8 @@
 # @genilsoncruz´s Portfolio Devops Projects
 Devops Projects
 
+https://github.com/milanm/DevOps-Roadmap?utm_source=tldrnewsletter
+
 https://genilsoncruz.github.io/portfolio-devops/
 
 https://getbootstrap.com.br/docs/3.3/getting-started/
