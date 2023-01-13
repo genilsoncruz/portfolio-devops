@@ -1,6 +1,8 @@
 # @genilsoncruz´s Portfolio Devops Projects
 Devops Projects
 
+https://cloud.google.com/architecture/automated-network-deployment-multicloud?hl=pt-br
+
 https://github.com/milanm/DevOps-Roadmap?utm_source=tldrnewsletter
 
 https://genilsoncruz.github.io/portfolio-devops/
